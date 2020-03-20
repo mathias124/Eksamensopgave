@@ -1,0 +1,7 @@
+class Datatast {
+
+void tegne(){
+}
+  
+  
+  }
